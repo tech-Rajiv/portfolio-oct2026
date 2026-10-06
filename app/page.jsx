@@ -121,7 +121,7 @@ export default function Page() {
           <div className="byline">
             <img
               className="avatar"
-              src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&crop=faces&w=200&h=200&q=90"
+              src="/avatar/avatar.png"
               alt="Rajiv Mishra"
             />
             <p>
